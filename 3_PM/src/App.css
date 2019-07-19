@@ -9,7 +9,30 @@ div {
   display: flex;
 }
 
+div h1{
+  color: white;
+  font-size: 70px;
+}
+
 form {
   display: flex;
   flex-direction: column;
+}
+
+form label{
+  color: white;
+  font-size: 40px;
+}
+
+#inp {
+  height: 35px;
+  width: 300px;
+}
+
+#sub {
+  width: 100px;
+  height: 30px;
+  align-self: center;
+  background-color: rgb(61, 61, 61);
+  color: white;
 }
