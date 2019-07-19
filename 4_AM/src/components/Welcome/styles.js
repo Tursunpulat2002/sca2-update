@@ -14,4 +14,6 @@ export const Container = styled(Flex)`
   width: 100%;
   align-items: center;
   justify-content: center;
-`;
+  background-color: paleturquoise; 
+  margin-bottom: 40px;
+`
